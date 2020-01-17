@@ -1,0 +1,12 @@
+C:\project\config-pbi-tracker\CSharp 2\bin\Debug\CSharp 2.exe.config
+C:\project\config-pbi-tracker\CSharp 2\bin\Debug\CSharp 2.exe
+C:\project\config-pbi-tracker\CSharp 2\bin\Debug\CSharp 2.pdb
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.ConfigSummary.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.CRQ.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.Form1.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.PBI.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.Properties.Resources.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp_2.Window.resources
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp 2.csproj.GenerateResource.cache
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp 2.exe
+C:\project\config-pbi-tracker\CSharp 2\obj\Debug\CSharp 2.pdb
